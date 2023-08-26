@@ -1,10 +1,15 @@
 site_name: Testing
 theme:
   name: material
+  icon:
+    repo: fontawesome/brands/github
   palette:
     scheme: slate
   features:
     - content.code.copy
+    - navigation.tabs
+repo_url: https://github.com/joeweiss/mkdocs-testing
+repo_name: joeweiss/mkdocs-testing
 
 markdown_extensions:
   - pymdownx.highlight:
