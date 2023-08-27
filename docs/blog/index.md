@@ -1,2 +1,1 @@
-# Blog
-
+# Joe's weblog
